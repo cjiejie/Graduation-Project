@@ -23,14 +23,14 @@ Ultimately function:
 Additional:
 
 Cubieboard2 Hardware Specs:
-    1. AllWinnerTech SOC A20，ARM® Cortex™-A7 Dual-Core ARM® Mali400 MP2 Complies with OpenGL ES 2.0/1.1
-    2. 1GB DDR3 @480M
-    3. 4GB internal NAND flash, up to 32GB on SD slot, up to 2T on 2.5 SATA disk
-    4. 5VDC input 2A or USB otg input
-    5. 1x 10/100 ethernet, support usb wifi
-    6. 2x USB 2.0 HOST, 1x mini USB 2.0 OTG, 1x micro sd
-    7. 1x HDMI 1080P display output
-    8. 1x IR, 1x line in, 1x line out
-    9. 96 extend pin interface, including I2C, SPI, RGB/LVDS, CSI/TS, FM-IN, ADC, CVBS, VGA, SPDIF-OUT, R-TP, and more
+1. AllWinnerTech SOC A20，ARM® Cortex™-A7 Dual-Core ARM® Mali400 MP2 Complies with OpenGL ES 2.0/1.1
+2. 1GB DDR3 @480M
+3. 4GB internal NAND flash, up to 32GB on SD slot, up to 2T on 2.5 SATA disk
+4. 5VDC input 2A or USB otg input
+5. 1x 10/100 ethernet, support usb wifi
+6. 2x USB 2.0 HOST, 1x mini USB 2.0 OTG, 1x micro sd
+7. 1x HDMI 1080P display output
+8. 1x IR, 1x line in, 1x line out
+9. 96 extend pin interface, including I2C, SPI, RGB/LVDS, CSI/TS, FM-IN, ADC, CVBS, VGA, SPDIF-OUT, R-TP, and more
 
 
