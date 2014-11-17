@@ -3,9 +3,12 @@ This is my graduation project code, very grateful to my instructor Wan Guofeng, 
 Title: The Qrcode encoding and decoding system based on CotexA7 Framework 
 
 Name: 		Chen Jiejie
+
 Student ID:	P111813775
+
 Professional and grades:
 	Grade 11 class 3,major in communication engineering
+	
 Mentor:	Wan Guofeng
 
 
