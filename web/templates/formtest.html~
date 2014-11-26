@@ -1,9 +1,0 @@
-$def with (form)
-	<title>cjiejie project login</title>
-	<p class="title">welcome to cjiejie project</p>
-	<form name="main" method="post">
-	$if not form.valid: <p class="error">Try again,Passwords error</p>
-		$:form.render()
-	$else:
-		$:web.seeother('/control')
-

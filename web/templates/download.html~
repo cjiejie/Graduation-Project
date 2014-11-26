@@ -1,6 +1,0 @@
-$def with ()
-	<title>download</title>
-	<p class="title">welcome to cjiejie project</p>
-	<a><img src="dimensions.png" width="109" height="109" border="0" /></a>
-	<p></p>
-	<a href='/control'> Main page</a>

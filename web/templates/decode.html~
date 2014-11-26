@@ -1,6 +1,0 @@
-$def with ()
-	<title>decode</title>
-	<p class="title">sure ready? click decode!</p>
-	<a href='/ans'> decode</a>
-	<p></p>
-	<a href='/control'> Main page</a>
