@@ -1,0 +1,7 @@
+<title>imeage</title>
+<p>
+Press picture saved to the local</p>
+<img src="imeage.png" alt="图片" />
+<p></p>
+<p></p>
+<a href='/control'> Main page</a>

@@ -1,0 +1,8 @@
+$def with ()
+	<title>cjiejie project test</title>
+	<p class="title">welcome to cjiejie project</p>
+	<p></p>
+	<a href='/decode'> Click this for decode a QR code</a>
+	<p></p>
+	<p></p>
+	<a href='/create'> Click this for create a QR code</a>
