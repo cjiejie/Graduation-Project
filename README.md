@@ -14,7 +14,9 @@ Mentor: Wan Guofeng
 
 Ultimately function:
 
-    Development board after transplantation can be normal and stable work. Transplantation latest linux kernel, file system form linano. Software design using python programming language
+    Development board after transplantation can be normal and stable work. 
+	Transplantation latest linux kernel, file system form linano. 
+	Software design using python programming language
 
     Use zbar qrcode decoding library, quickly realize qrcode generation and decoding.
 
